@@ -1,0 +1,12 @@
+api_key = 'AIzaSyDmQNRkdttWAik5v1rhYYuQpIpgjAC5yXA'
+channel_ids = ['UCnz-ZXXER4jOvuED5trXfEA', #Techtfq
+               'UC7cs8q-gJRlGwj4A8OmCmXg', #Alex the analyst
+               'UCmKaoNn0OvxVAe7f_8sXYNQ', #Jovian
+               'UCq-Fj5jknLsUf-MWSy4_brA', #T-series
+               'UCpEhnqL0y41EpW2TvWAHD7Q' #Sony india
+               'UC_aDkEvLjl4-ZUdqxauAHng', #Pythonology
+               'UCObs0kLIrDjX2LLSybqNaEA', #Great Learning
+               'UCiT9RITQ9PW6BhXK0y2jaeg', #Ken Jee	
+               'UCLLw7jmFsvfIVaUFsLs8mlQ'  #Luke Barousse
+              ]
+Main Used library = googleapiclient.discovery
